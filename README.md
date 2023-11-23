@@ -1,4 +1,6 @@
 # Leap
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYaroShkvorets%2Fleap.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYaroShkvorets%2Fleap?ref=badge_shield)
+
 Leap is a C++ implementation of the [Antelope](https://github.com/AntelopeIO) protocol. It contains blockchain node software and supporting tools for developers and node operators.
 
 ## Branches
@@ -208,3 +210,7 @@ It is also possible to install using `make` instead:
 ```bash
 sudo make install
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYaroShkvorets%2Fleap.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYaroShkvorets%2Fleap?ref=badge_large)
